@@ -1,9 +1,9 @@
 var CACHE_NAME = 'phfinder';
 var urlsToCache = [
-	'/',
-	'/index.html',
-	'/css/main.css',
-	'/js/scripts.js'
+	'./',
+	'./index.html',
+	'./css/main.css',
+	'./js/scripts.js'
 ];
 
 self.addEventListener('install', function (event) {
