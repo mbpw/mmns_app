@@ -8,6 +8,7 @@
     "dir": "ltr",
     "display": "standalone",
     "orientation": "any",
+    "start_url": "https://mbpw.github.io/mmns_app/",
     "icons": [
         {
             "src": "./img/icon/android-icon-192x192-dunplab-manifest-23613.png",
